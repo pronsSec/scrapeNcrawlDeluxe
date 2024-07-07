@@ -11,6 +11,7 @@
 2. Required Python packages installed:
    - `requests`
    - `scrapy`
+   - `cloudscraper`
 
 ## Steps
 
